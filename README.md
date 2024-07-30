@@ -1,2 +1,2 @@
 # synthetic-cellular-traffic-dataset
-In this synthetic cellular network traffic dataset, each entry contains an anonymized user identification, age, gender (10: male, 11: female), date, timestamps (hourly-based), the unique ID of base station association , the uplink and downlink traffic during this time duration (Mb).
+In this synthetic cellular network traffic dataset, each entry contains an anonymized user identification (uid), date (day), hour (ts), the unique ID of base station association (uli), the uplink (upstream) and downlink (downstream) traffic during this time duration (Mb), age, gender (10: male, 11: female).
